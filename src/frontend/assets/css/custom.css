@@ -1,0 +1,4 @@
+.card-banner .banner-quote .overlay-gradient .back{
+    background-image: url("../images/banners/banner9.jpg") !important;
+    z-index: 100 !important;
+}
